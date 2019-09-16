@@ -35,6 +35,7 @@
 </template>
 
 <script>
+import '../../vendor/gt'
 export default {
   name: 'Login',
   data () {
